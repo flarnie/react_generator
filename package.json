@@ -1,6 +1,6 @@
 {
   "name": "react_generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A generator for React Component skeletons, to be used with Accio.",
   "main": "react_component.js",
   "scripts": {
